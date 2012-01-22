@@ -10,4 +10,9 @@ class file1{
 	}
 }
 
+
+$obj = new file1();
+$obj->listando_objects();
+
+
 ?>
