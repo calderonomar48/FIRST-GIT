@@ -1,6 +1,6 @@
 <?php
 
-class file1{
+class file1_guitarrachay{
 	public __construct(){
 		var prueba = "";
 	}
