@@ -28,3 +28,5 @@ $obj = new prueba();
 $obj-deleted_files("1");
 
 ?>
+
+// nuevos cambios al archivo file2.php
